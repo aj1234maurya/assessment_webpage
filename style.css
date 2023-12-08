@@ -106,3 +106,8 @@ footer svg {
     height: 700px;
   }
 }
+@media (max-width: 1000px) {
+  nav button.navbar-toggler {
+    background-color: white;
+  }
+}
