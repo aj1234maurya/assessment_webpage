@@ -338,7 +338,7 @@ header .left-side {
     display: block;
     text-align: center;
     font-weight: bolder;
-    font-size: 5vw;
+    font-size: 4vw;
   }
 }
 
@@ -349,6 +349,12 @@ header .left-side {
   .navbar-toggler {
     font-size: 1.2vw;
     margin: 0;
+  }
+  header h3 {
+    font-size: 2.5vw;
+  }
+  header p {
+    font-size: 1.8vw;
   }
   header button {
     padding: 1vw 0vw;
@@ -380,6 +386,12 @@ header .left-side {
   }
   .heading-div h4 {
     display: none;
+  }
+  .empty2 {
+    margin: 3vw;
+  }
+  .empty3 {
+    margin: 3vw;
   }
   .table-div p {
     font-size: 3vw;
@@ -419,6 +431,6 @@ header .left-side {
     display: block;
     text-align: center;
     font-weight: bolder;
-    font-size: 6vw;
+    font-size: 5vw;
   }
 }
